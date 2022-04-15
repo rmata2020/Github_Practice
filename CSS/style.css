@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(39, 36, 36);
+}
+
+
+H1 {
+    font-family: Arial;
+    color:  antiquewhite;
+    text-align: center;
+    
+}
+h2 {
+    font-family: Arial;
+    color:antiquewhite;
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+h3 {
+    font-family: Arial;
+    color: brown;
+    font-weight: lighter;
+}
+
+nav a {
+    text-decoration: none;
+    color: yellow;
+    font-family: Arial;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+div {
+    margin-left: 
+}
+
+img {
+    margin-left:400px;
+}
+
+.MorePhotos {
+    font-family: Arial;
+}
+
+.About {
+    color: antiquewhite;
+    text-align: center;
+}
+
